@@ -1,0 +1,4 @@
+ROOM
+101,Air-Conditioned,1233.0,false
+BOARDER
+Jovan,123,1234,101
