@@ -1,11 +1,12 @@
-# Beta 1.4
+# Beta 1.5
 
 Added:
-- Search Box
+- Logo Picture
+- Data Saving
+- Anti Duplicates
+
 
 To Take Note:
-- You need to add the room first and make it available before you can assign a room to a boarder.
-- Type ID first to delete.
+- improve ui
+- documentation
 
-Things still not there:
-- Data saving
